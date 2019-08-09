@@ -5,6 +5,6 @@ public class Deneme2 {
   
   System.out.println("baba ne yaptin? Online degisiklik yaptimm");
 
-  
+  System.out.println("Ben yine kurcaladim burayi yahu conflict olayini pekistirmek icin");
 
 }
