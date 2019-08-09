@@ -1,2 +1,5 @@
 target
 colors.text
+.git ignore
+.idea/workspace.xml
+
