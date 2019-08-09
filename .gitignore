@@ -1,5 +1,3 @@
-target
-colors.text
-.git ignore
-.idea/workspace.xml
-
+.gitignore
+.colors.text
+elama
