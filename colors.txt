@@ -2,6 +2,7 @@ elma
 armut
 patlican
 uzum
+lahana
 
 
 
