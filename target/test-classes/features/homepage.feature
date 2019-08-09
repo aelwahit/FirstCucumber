@@ -1,6 +1,6 @@
 Feature:Home page
 As a user , when I enter correct login
-I should be able to login
+I should be able to logingit
 
 
   Scenario: login as a team lead
