@@ -1,4 +1,6 @@
 elma
 armut
+patlican
+
 
 
