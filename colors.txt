@@ -3,6 +3,7 @@ armut
 patlican
 uzum
 lahana
+acur
 
 
 
