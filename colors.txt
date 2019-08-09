@@ -4,6 +4,7 @@ patlican
 uzum
 lahana
 acur
+pirasa
 
 
 
